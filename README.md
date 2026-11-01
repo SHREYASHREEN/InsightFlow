@@ -1,4 +1,9 @@
 # InsightFlow - Business Requirements and Process Intelligence Platform
+# InsightFlow – Business Requirements and Process Intelligence Platform
+
+🚀 **[Live Application Demo](https://insightflow-ms8wwbsara5khcstl2zwd3.streamlit.app/)** | 💻 **[GitHub Source Code](https://github.com/SHREYASHREEN/InsightFlow)**
+
+Explore the application using the demo credentials provided below.
 
 A portfolio project that shows how a business analyst can document requirements, trace them to objectives and tests,
 and track service requests against SLAs. **All data is fictional sample data** (a made-up company, "Northwind Service Desk").

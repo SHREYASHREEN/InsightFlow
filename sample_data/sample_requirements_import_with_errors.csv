@@ -1,0 +1,8 @@
+req_id,title,description,req_type,priority,status,due_date,dependencies
+REQ-201,Valid row,SAMPLE ok,Functional,Low,Draft,2026-12-01,
+REQ-201,Duplicate id in same file,SAMPLE,Functional,Low,Draft,,
+bad-id,Bad id format,SAMPLE,Functional,Low,Draft,,
+REQ-202,,Missing title,Functional,Low,Draft,,
+REQ-203,Bad priority,SAMPLE,Functional,Urgent,Draft,,
+REQ-204,Bad date,SAMPLE,Functional,Low,Draft,31/12/2026,
+"=HYPERLINK(""http://example.com"")",Formula in id,SAMPLE,Functional,Low,Draft,,

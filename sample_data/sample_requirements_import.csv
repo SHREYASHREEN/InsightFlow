@@ -1,0 +1,4 @@
+req_id,title,description,req_type,priority,status,due_date,dependencies,objective,owner
+REQ-101,Search tickets by keyword,SAMPLE: agents can search by title or ID,Functional,Medium,Proposed,2026-12-31,,OBJ-01,Asha Menon
+REQ-102,Bulk reassign requests,SAMPLE: managers move several tickets to another owner,Functional,High,Draft,2026-12-15,REQ-101,OBJ-02,Rahul Verma
+REQ-103,Audit log retained for 12 months,SAMPLE: compliance need,Non-Functional,Medium,Approved,2027-01-31,,,Imran Sheikh
